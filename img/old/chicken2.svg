@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="9000px" height="9000px" viewBox="0 0 9000 9000" style="enable-background:new 0 0 9000 9000;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#7F4C90;}
+	.st1{fill:#4B4137;}
+	.st2{fill:#F8F4E9;stroke:#6A5F5B;stroke-width:30;stroke-miterlimit:10;}
+	.st3{fill:#1D1D1B;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{fill:#FD8D4B;}
+	.st6{fill:#FFA664;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:none;stroke:#1D1D1B;stroke-width:40;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{opacity:0.98;fill:#1D1D1B;enable-background:new    ;}
+	.st11{display:inline;}
+	.st12{font-family:'ArialMT';}
+	.st13{opacity:0.6;fill:#F6F6F6;enable-background:new    ;}
+	.st14{font-size:72;}
+	.st15{display:none;}
+	.st16{fill:url(#Bg_1_);stroke:#1D1D1B;stroke-miterlimit:10;}
+]]>
+</style>
+<linearGradient id="Bg_1_" gradientUnits="userSpaceOnUse" x1="-3312.3398" y1="12343.8887" x2="-3312.3398" y2="11172.8271" gradientTransform="matrix(1 0 0 -1 4202.3398 13080.0391)">
+	<stop  offset="0" style="stop-color:#4050A5"/>
+	<stop  offset="1" style="stop-color:#66A5C9"/>
+</linearGradient>
+<rect id="Bg" x="350" y="292.2" class="st16" width="1080" height="1920"/>
+<path id="earphoneTop" class="st8" d="M488.4,1169.5c0,0,32.1-264,401.6-264s420.5,264,420.5,264"/>
+<path id="Hat" class="st0" d="M708.3,963.4V705c0,0,22.7-88,112.7-90s104,88,104,112s18-30,84-30s100,60.4,104,92.2
+	c4,31.8-18,83.8-18,83.8s16-10,38-8s62,33.5,66,64.7c4,31.2-27.2,82.8-27.2,82.8"/>
+<path id="Head" class="st7" d="M1430,2161.8c-90-68-131-118.8-161-290.8c-45.7-261.9,78-442,48-600c-34.9-184-148.5-344-440-341.2
+	C643.3,932,509,1088,473,1281s97.6,394.4,28,610s-151,270.8-151,270.8v50.4h1080V2161.8z"/>
+<path id="moustache" class="st0" d="M959.9,1470.1c2.1,4.1,23,67.3,21,87.3s-8,48-43,47s-48-45-48-45c0,25-24,45-47,45s-44-13-44-37
+	s19-106.4,19-106.4s26.1-24.2,68.1-24.6C928,1436,959.9,1470.1,959.9,1470.1z"/>
+<g id="mouth">
+	<path class="st6" d="M709.1,1460.8c0,0,120,3,175.5,0s88.5,10.5,111,10.5s24.5-21,22.7-43.5s-36.2-126-127.7-126.7
+		c-91.5-0.7-188,92.3-187.5,144.7C703.2,1456.5,709.1,1460.8,709.1,1460.8z"/>
+	<path class="st5" d="M709.1,1460.8c0,0,120,3,175.5,0s88.5,10.5,111,10.5s20.3-26.1,19.1-48.7c-0.7-14.2-79.4-20.3-124.4-21.1
+		c-91.5-1.5-146.3,23.4-162,34.8C719.6,1442.7,709.1,1460.8,709.1,1460.8z"/>
+</g>
+<path id="RightEye" class="st0" d="M1120.2,1255.5c-2-16-15.7-28.4-32.3-28.4c-18,0-32.6,14.6-32.6,32.6c0,1.4,0.1,2.8,0.3,4.2v24.3
+	h0.3c0,18,14.6,32.6,32.6,32.6s32.6-14.6,32.6-32.6v-32.6h-0.9V1255.5z"/>
+<path id="LeftEye" class="st0" d="M702.3,1255.5c-2-16-15.7-28.4-32.3-28.4c-18,0-32.6,14.6-32.6,32.6c0,1.4,0.1,2.8,0.3,4.2v24.3
+	h0.3c0,18,14.6,32.6,32.6,32.6s32.6-14.6,32.6-32.6v-32.6h-0.9V1255.5z"/>
+<g id="glasses">
+	<path class="st10" d="M575,1115.3h606.7c0,0,0,40,0,80s-36.7,158.7-150,158.7c-141.7,0-153.3-152.7-153.3-152.7
+		S865.7,1354,725,1354c-114,0-150-126.7-150-145.3C575,1190.1,575,1115.3,575,1115.3z"/>
+	<path class="st13" d="M630.3,1128.7H755c0,0,52.7,48,52.7,66c0,4-4.6,9.3-8.7,9.3c-8.6,0-30.6,4.7-30.6,18
+		c0,34.7,48.7,70,48.7,77.3c0,10-35.3,26-54.7,36.3C751.1,1262.2,630.3,1128.7,630.3,1128.7z"/>
+	<path class="st13" d="M936.3,1131.2H1061c0,0,52.7,48,52.7,66c0,4-4.6,9.3-8.7,9.3c-8.6,0-30.6,4.7-30.6,18
+		c0,34.7,48.7,70,48.7,77.3c0,10-35.3,26-54.7,36.3C1057.1,1264.7,936.3,1131.2,936.3,1131.2z"/>
+</g>
+<g id="Ref" class="st15">
+	<g class="st11">
+		<defs>
+			<rect id="SVGID_1_" x="1905.9" y="238.2" width="2219.6" height="3440.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st4">
+		</g>
+	</g>
+</g>
+<g id="headphoneL">
+	<path class="st3" d="M501,1599.4c0,6.6-5.4,12-12,12h-14c-6.6,0-12-5.4-12-12V1156c0-6.6,5.4-12,12-12h14c6.6,0,12,5.4,12,12
+		V1599.4z"/>
+	<rect x="430" y="1137" class="st3" width="30" height="439.5"/>
+	<path class="st3" d="M428,1176.3v400.2c0,0-54.6-59.5-54.6-196S428,1176.3,428,1176.3z"/>
+</g>
+<g id="headphoneR">
+	<path class="st3" d="M1290.4,1599.4c0,6.6,5.4,12,12,12h14c6.6,0,12-5.4,12-12V1156c0-6.6-5.4-12-12-12h-14c-6.6,0-12,5.4-12,12
+		V1599.4z"/>
+	<rect x="1331.4" y="1137" class="st3" width="30" height="439.5"/>
+	<path class="st3" d="M1363.4,1176.3v400.2c0,0,54.6-59.5,54.6-196S1363.4,1176.3,1363.4,1176.3z"/>
+</g>
+<polygon class="st2" points="936.3,1696.5 953.8,1770.5 428,1733.5 400.7,2116.5 1346.4,2083.9 1310.5,1784.5 1029.7,1764.5 "/>
+<g>
+	<rect x="484.5" y="1830.5" class="st9" width="788" height="224"/>
+	<text transform="matrix(1 0 0 1 484.5 1892.2896)" class="st1 st12 st14">I think I saw something.</text>
+</g>
+</svg>
